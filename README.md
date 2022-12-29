@@ -1,4 +1,4 @@
-# movie_app
+# Movie App
 
 Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
@@ -8,10 +8,10 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 <div align='center' >
 
-<img src="img/33.jpg" width="128"/>
-<img src="img/11.png" width="128"/>
-<img src="img/44.jpg" width="128"/>
-<img src="img/22.jpg" width="128"/>
+<img src="img/33.jpg" width="128"/> <p style="margin:0 3 0 3">  </p>
+<img src="img/11.png" width="128"/> <p style="margin:0 3 0 3">  </p>
+<img src="img/44.jpg" width="128"/> <p style="margin:0 3 0 3">  </p>
+<img src="img/22.jpg" width="128"/> <p style="margin:0 3 0 3">  </p>
 
 <br>
 
@@ -19,14 +19,19 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 ![1207050053](https://img.shields.io/badge/1207050053-Irpan%20Ibnu%20Solih-orange)
 ![1207050054](https://img.shields.io/badge/1207050054-Ivan%20Wijayana-orange)
 ![1207050055](https://img.shields.io/badge/1207050055-Jalalul%20Mu'ti-orange)
-<br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+<br>
+
+[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
 </div>
 
 
 ## Deskripsi Aplikasi
 
-Movie Apps adalah aplikasi yang menyediakan berbagai genre film. Dengan Movie Apps pengguna dapat menambahkan list film favorite sehingga pengguna dapat dengan mudah untuk mengaksesnya dimanapun kapanpun tanpa harus scrol atau searching.
+Movie Apps adalah aplikasi yang menyediakan berbagai genre film. Aplikasi ini dibuat berdasarkan pengamatan terhadap beberapa orang yang kesulitan dalam mengingat film apa saja yang mereka ingin tonton atau difavoritkan, terutama film yang memiliki judul yang susah untuk diingat.
+
+Dengan Movie Apps pengguna dapat menambahkan list film favorite sehingga pengguna dapat dengan mudah untuk mengaksesnya dimanapun kapanpun tanpa harus scrol atau searching.
+
 
 ## Link Dokumentasi
 
@@ -37,6 +42,8 @@ Movie Apps adalah aplikasi yang menyediakan berbagai genre film. Dengan Movie Ap
 [![link canva](https://img.shields.io/badge/Canva-Pitch%20Deck-blue)](https://www.canva.com/design/DAFWILjfEe8/GwYkK-G4pwSfMj8_qWZDGw/edit?utm_content=DAFWILjfEe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![link Youtube](https://img.shields.io/badge/Youtube-Presentation-red)](https://www.canva.com/design/DAFWILjfEe8/GwYkK-G4pwSfMj8_qWZDGw/edit?utm_content=DAFWILjfEe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![link Aplikasi](https://img.shields.io/badge/Playstore-Application-green)](https://play.google.com/store/apps/details?id=id.ac.uinsgd.tim1informatikac.movie_app)
+[![link Medium](https://img.shields.io/badge/Medium-Documentation-lightgrey)](https://play.google.com/store/apps/details?id=id.ac.uinsgd.tim1informatikac.movie_app)
+
 
 </div>
 
