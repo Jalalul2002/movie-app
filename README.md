@@ -21,7 +21,7 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 ![1207050055](https://img.shields.io/badge/1207050055-Jalalul%20Mu'ti-orange)
 <br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
-</>
+</div>
 
 
 ## Deskripsi Aplikasi
