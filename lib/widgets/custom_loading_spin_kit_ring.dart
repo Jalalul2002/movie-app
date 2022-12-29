@@ -15,7 +15,7 @@ class CustomLoadingSpinKitRing extends StatelessWidget {
       children: [
         Center(
           child: Icon(
-            Icons.videocam,
+            Icons.camera,
             size: 20.0.sp,
             color: loadingColor ?? Colors.transparent,
           ),

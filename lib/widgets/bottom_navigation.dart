@@ -23,7 +23,8 @@ class BottomNavigation extends StatelessWidget {
         color: kAppBarColor,
         boxShadow: kBoxShadow,
       ),
-      height: 11.h,
+      alignment: Alignment(0, -0.3),
+      height: 8.h,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: children,

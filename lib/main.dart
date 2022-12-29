@@ -14,9 +14,9 @@ class MyApp extends StatelessWidget {
       builder: (context, orientation, deviceType) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Movies App',
+          title: 'Movie App',
           theme: ThemeData().copyWith(
-            platform: TargetPlatform.iOS,
+            platform: TargetPlatform.android,
             primaryColor: kPrimaryColor,
             scaffoldBackgroundColor: kPrimaryColor,
           ),

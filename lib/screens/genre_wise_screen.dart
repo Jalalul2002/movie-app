@@ -66,7 +66,7 @@ class _GenreWiseScreenState extends State<GenreWiseScreen>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 10.h,
+        toolbarHeight: 8.h,
         shadowColor: Colors.transparent.withOpacity(0.1),
         elevation: 0,
         backgroundColor: kSearchAppBarColor,

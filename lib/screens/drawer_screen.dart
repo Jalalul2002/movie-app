@@ -20,7 +20,6 @@ class DrawerScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
-
               DrawerItem(
                 title: kDrawerTitleSecondText,
                 desc: kDrawerAboutDescText,

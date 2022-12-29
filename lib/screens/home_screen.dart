@@ -122,7 +122,7 @@ class HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
             ),
           ),
           preferredSize:
-          Size.fromHeight((bottomBarIndex == 1) ? 16.0.h : 7.h),
+          Size.fromHeight((bottomBarIndex == 1) ? 13.0.h : 7.h),
         ),
       ),
       body: (_movieCards == null)

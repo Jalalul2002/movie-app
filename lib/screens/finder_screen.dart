@@ -56,7 +56,7 @@ class _FinderScreenState extends State<FinderScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 18.h,
+        toolbarHeight: 16.h,
         shadowColor: Colors.transparent.withOpacity(0.1),
         elevation: 0,
         title: Text(kFinderScreenTitleText, style: kSmallAppBarTitleTextStyle),

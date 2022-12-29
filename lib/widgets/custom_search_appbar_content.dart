@@ -20,7 +20,7 @@ class CustomSearchAppbarContent extends StatelessWidget {
             onChanged: onChanged,
             onEditingComplete: onEditingComplete,
             style: kDrawerDescTextStyle,
-            cursorColor: Colors.white,
+            cursorColor: Colors.black,
             autofocus: true,
             autocorrect: false,
             textInputAction: TextInputAction.search,

@@ -69,7 +69,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                 )
               : null,
         ),
-        SizedBox(height: 3.h),
+        SizedBox(height: 2.h),
         if (widget.showSlider)
           if (widget.activeButtonIndex != null)
             SingleChildScrollView(
@@ -89,7 +89,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                       },
                       color: widget._firstColor,
                     ),
-                    SizedBox(width: 5.w),
+                    SizedBox(width: 3.w),
                     CustomMoviesButton(
                       text: kHomeScreenButtonSecondText,
                       onPressed: () {
@@ -99,7 +99,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                       },
                       color: widget._secondColor,
                     ),
-                    SizedBox(width: 5.w),
+                    SizedBox(width: 3.w),
                     CustomMoviesButton(
                       text: kHomeScreenButtonThirdText,
                       onPressed: () {
