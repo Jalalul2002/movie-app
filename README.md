@@ -8,8 +8,8 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 <div align='center'>
 
-<img src="img/33.png" width="128"/>
-<img src="img/11.jpg" width="128"/>
+<img src="img/33.jpg" width="128"/>
+<img src="img/11.png" width="128"/>
 <img src="img/44.jpg" width="128"/>
 <img src="img/22.jpg" width="128"/>
 
@@ -28,6 +28,7 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 ## Link Dokumentasi
 
+[![link canva](https://img.shields.io/badge/Canva-Pitch%20Deck-blue)](https://www.canva.com/design/DAFWILjfEe8/GwYkK-G4pwSfMj8_qWZDGw/edit?utm_content=DAFWILjfEe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Screenshot
 
