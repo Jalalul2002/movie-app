@@ -9,9 +9,9 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 <div align='center'>
 
 <img src="img/33.png" width="128"/>
-<img src="img/11.png" width="128"/>
-<img src="img/44.png" width="128"/>
-<img src="img/22.png" width="128"/>
+<img src="img/11.jpg" width="128"/>
+<img src="img/44.jpg" width="128"/>
+<img src="img/22.jpg" width="128"/>
 
 <br>
 
@@ -26,11 +26,16 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 ## Deskripsi Aplikasi
 
-## Link Youtube
+## Link Dokumentasi
+
 
 ## Screenshot
 
-![Dashboard](img/1.jpg)
-![Search](img/2.jpg)
-![Genre](img/3.jpg)
-![Favorites](img/4.jpg)
+<div align='center'>
+
+<img src="img/1.jpg" width="128"/>
+<img src="img/2.jpg" width="128"/>
+<img src="img/3.jpg" width="128"/>
+<img src="img/4.jpg" width="128"/>
+
+</div>
