@@ -6,7 +6,7 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 ![Teams](https://img.shields.io/badge/Our%20Team-Team%201-blue)
 
-<div align='center'>
+<div align='space-evenly' >
 
 <img src="img/33.jpg" width="128"/>
 <img src="img/11.png" width="128"/>
