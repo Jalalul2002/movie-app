@@ -1,0 +1,15 @@
+id.ac.uinsgd.tim1informatikac.movie_app-jetified-window-1.0.0-beta04-0 C:\Users\U S E R\.gradle\caches\transforms-3\06ffdea2bb5ac742238cf15c99c5cc9a\transformed\jetified-window-1.0.0-beta04\res
+id.ac.uinsgd.tim1informatikac.movie_app-core-1.6.0-1 C:\Users\U S E R\.gradle\caches\transforms-3\251fefc6a10d02090a00f650cf32844e\transformed\core-1.6.0\res
+id.ac.uinsgd.tim1informatikac.movie_app-jetified-annotation-experimental-1.1.0-2 C:\Users\U S E R\.gradle\caches\transforms-3\8b7744ca0e691764d4daf42340141fbf\transformed\jetified-annotation-experimental-1.1.0\res
+id.ac.uinsgd.tim1informatikac.movie_app-jetified-window-java-1.0.0-beta04-3 C:\Users\U S E R\.gradle\caches\transforms-3\b180988b9133630c4c991e45a5a2338e\transformed\jetified-window-java-1.0.0-beta04\res
+id.ac.uinsgd.tim1informatikac.movie_app-main-4 C:\Users\U S E R\AndroidStudioProjects\movie_app\android\app\src\main\res
+id.ac.uinsgd.tim1informatikac.movie_app-release-5 C:\Users\U S E R\AndroidStudioProjects\movie_app\android\app\src\release\res
+id.ac.uinsgd.tim1informatikac.movie_app-pngs-6 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\generated\res\pngs\release
+id.ac.uinsgd.tim1informatikac.movie_app-resValues-7 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\generated\res\resValues\release
+id.ac.uinsgd.tim1informatikac.movie_app-rs-8 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\generated\res\rs\release
+id.ac.uinsgd.tim1informatikac.movie_app-mergeReleaseResources-9 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+id.ac.uinsgd.tim1informatikac.movie_app-mergeReleaseResources-10 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+id.ac.uinsgd.tim1informatikac.movie_app-merged_res-11 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\app\intermediates\merged_res\release
+id.ac.uinsgd.tim1informatikac.movie_app-packaged_res-12 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\fluttertoast\intermediates\packaged_res\release
+id.ac.uinsgd.tim1informatikac.movie_app-packaged_res-13 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\path_provider_android\intermediates\packaged_res\release
+id.ac.uinsgd.tim1informatikac.movie_app-packaged_res-14 C:\Users\U S E R\AndroidStudioProjects\movie_app\release\sqflite\intermediates\packaged_res\release

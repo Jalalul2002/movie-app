@@ -81,7 +81,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     CustomMoviesButton(
-                      text: kHomeScreenButtonFirstText,
+                      text: "Populars",
                       onPressed: () {
                         setState(() {
                           widget.buttonFistOnPressed!(0);
@@ -91,7 +91,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                     ),
                     SizedBox(width: 3.w),
                     CustomMoviesButton(
-                      text: kHomeScreenButtonSecondText,
+                      text: "Coming Soon",
                       onPressed: () {
                         setState(() {
                           widget.buttonSecondOnPressed!(1);
@@ -101,7 +101,7 @@ class _CustomMainAppBarContentState extends State<CustomMainAppBarContent> {
                     ),
                     SizedBox(width: 3.w),
                     CustomMoviesButton(
-                      text: kHomeScreenButtonThirdText,
+                      text: "Top Rated",
                       onPressed: () {
                         setState(() {
                           widget.buttonThirdOnPressed!(2);

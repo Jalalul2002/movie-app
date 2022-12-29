@@ -105,6 +105,8 @@ class HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
         automaticallyImplyLeading: false,
         backgroundColor: kAppBarColor,
         bottom: PreferredSize(
+          preferredSize:
+          Size.fromHeight((bottomBarIndex == 1) ? 13.0.h : 7.h),
           child: CustomMainAppBarContent(
             showSlider: showSlider,
             title: title,
@@ -121,8 +123,6 @@ class HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
               ),
             ),
           ),
-          preferredSize:
-          Size.fromHeight((bottomBarIndex == 1) ? 13.0.h : 7.h),
         ),
       ),
       body: (_movieCards == null)
