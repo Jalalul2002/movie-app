@@ -8,9 +8,9 @@ Aplikasi untuk mendapatkan informasi  mengenai film - film terbaru
 
 <div align='center' >
 
-<img src="img/33.jpg" width="128" style="margin-right:3px;"/>
-<img src="img/11.png" width="128" style="margin-right:3px;"/>
-<img src="img/44.jpg" width="128" style="margin-right:3px;"/>
+<img src="img/33.jpg" width="128" style="margin-right:10px;"/>
+<img src="img/11.png" width="128" style="margin-right:10px;"/>
+<img src="img/44.jpg" width="128" style="margin-right:10px;"/>
 <img src="img/22.jpg" width="128"/>
 
 <br>
