@@ -40,9 +40,9 @@ Dengan Movie Apps pengguna dapat menambahkan list film favorite sehingga penggun
 <p> "Klik Bedge Dibawah!!" </p>
 
 [![link canva](https://img.shields.io/badge/Canva-Pitch%20Deck-blue)](https://www.canva.com/design/DAFWILjfEe8/GwYkK-G4pwSfMj8_qWZDGw/edit?utm_content=DAFWILjfEe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[![link Youtube](https://img.shields.io/badge/Youtube-Presentation-red)](https://www.canva.com/design/DAFWILjfEe8/GwYkK-G4pwSfMj8_qWZDGw/edit?utm_content=DAFWILjfEe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![link Youtube](https://img.shields.io/badge/Youtube-Presentation-red)](https://youtu.be/TNb7Bd3_qYY)
 [![link Aplikasi](https://img.shields.io/badge/Playstore-Application-green)](https://play.google.com/store/apps/details?id=id.ac.uinsgd.tim1informatikac.movie_app)
-[![link Medium](https://img.shields.io/badge/Medium-Documentation-lightgrey)](https://play.google.com/store/apps/details?id=id.ac.uinsgd.tim1informatikac.movie_app)
+[![link Medium](https://img.shields.io/badge/Medium-Documentation-lightgrey)](https://medium.com/@jalalul2000/movies-app-8c5e87e48b92)
 
 
 </div>
